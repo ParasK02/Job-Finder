@@ -8,7 +8,10 @@ Make sure to have [Node Js](https://nodejs.org/en) installed. Use expo to use la
 npm start
 ```
 My API calls from the API are close to running out :( you can replace it with your own if you'd like to test for maximum useability.
-##Screenshots
+## Screenshots
+Home Page:
+![Job_finder](https://github.com/ParasK02/Job-Finder/assets/90861109/4ace856e-252a-460b-9825-ff69c20e5337)
+
 
 
 ## Credits
