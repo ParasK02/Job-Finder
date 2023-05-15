@@ -10,7 +10,8 @@ npm start
 My API calls from the API are close to running out :( you can replace it with your own if you'd like to test for maximum useability.
 ## Screenshots
 Home Page:
-![Job_finder](https://github.com/ParasK02/Job-Finder/assets/90861109/4ace856e-252a-460b-9825-ff69c20e5337)
+![Job_finder](https://github.com/ParasK02/Job-Finder/assets/90861109/2d0d57bf-9982-4b18-8c72-74fb8add5541)
+
 
 
 
