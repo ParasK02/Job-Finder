@@ -17,5 +17,5 @@ Home Page:
 
 
 ## Credits
-This application was a project from the course [JavaScript Mastery Course](https://www.jsmastery.pro/complete-path-to-javascript-mastery) I am taking.
+This application was a project from the course JavaScript Mastery Course by [@adrianhajdin](https://github.com/adrianhajdin).
 
